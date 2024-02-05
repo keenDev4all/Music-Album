@@ -1,9 +1,9 @@
-# Music-Application
-<img width="959" alt="musicappSS" src="https://github.com/Indranath165/Music-Application/assets/121590717/6f6f0b69-d09d-40ec-aca3-8eb31885ae0a">
+# Music-Album
+<img width="959" alt="musicappSS" src="https://github.com/Indranath165/Music-Album/assets/121590717/6f6f0b69-d09d-40ec-aca3-8eb31885ae0a">
 
 This is a spotify like music application built using Next.js, React, Tailwind CSS, Supabase, and PostgreSQL. Discover a seamless music streaming experience with this app. Dive into a vast library of songs, albums, and artists across various genres. Explore curated playlists or create your own personalized collections. With intuitive audio controls and a sleek user interface, enjoy uninterrupted playback and easily organize your music to suit your preferences. <br> Whether you're a casual listener or a music enthusiast, this music application provides an enjoyable and customizable music streaming journey that connects you with the music you love. Start exploring, playing, and organizing your music like never before.
 <br> <br>
-<b>Check out the live demo of this music application at</b> <a href="https://music-application-three.vercel.app/" target="_blank">https://music-application-three.vercel.app/</a>.
+<b>Check out the live demo of this music application at</b> <a href="https://music-album-three.vercel.app/" target="_blank">https://music-album-three.vercel.app/</a>.
 ## Features
 <ul>
     <li>Song upload</li>
@@ -26,7 +26,7 @@ This is a spotify like music application built using Next.js, React, Tailwind CS
 <b>Node version 14.x</b>
 <h2>Installation</h2>
 1. Clone or download this repository to your local machine.<br>
-2. Navigate to the project directory: <code>cd Music-Application</code> <br>
+2. Navigate to the project directory: <code>cd Music-Album</code> <br>
 3. Install the dependencies: <code>npm install</code>
 <h2>Setup .env file</h2>
 <code>NEXT_PUBLIC_SUPABASE_URL=<br>
